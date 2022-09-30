@@ -1,0 +1,9 @@
+(select distinct CITY from STATION where CITY like '%a')
+union all
+(select distinct CITY from STATION where CITY like '%e')
+union all
+(select distinct CITY from STATION where CITY like '%i')
+union all
+(select distinct CITY from STATION where CITY like '%o')
+union all
+(select distinct CITY from STATION where CITY like '%u')
