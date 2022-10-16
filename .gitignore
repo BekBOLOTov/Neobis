@@ -1,0 +1,7 @@
+./idea
+./build
+./gradle
+*/build/*
+*.iml
+week5/.idea/
+week5/.gradle/
